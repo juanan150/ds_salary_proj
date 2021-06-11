@@ -53,7 +53,11 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 ## EDA
 
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights fro the pivot tables.
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the graphs.
+
+![alt text](https://github.com/juanan150/ds_salary_proj/blob/master/images/image_1.png)
+
+![alt text](https://github.com/juanan150/ds_salary_proj/blob/master/images/image_2.png)
 
 ## Model
 
